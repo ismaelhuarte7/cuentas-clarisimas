@@ -1,17 +1,23 @@
-# cuentas_clarisimas
+# Cuentas Clarisimas 🍻
 
-A new Flutter project.
+Cuentas Clarisimas es la app definitiva para cuando te juntás con amigos y nadie sabe quién le debe a quién. La hice porque estaba harto de las apps complicadas con mil registros. Acá entrás, cargás los nombres, cuánto puso cada uno y listo. 
 
-## Getting Started
+## ✨ Qué tiene de especial:
+- **Cero fricción:** No hay que loguearse, no hay que crear grupos. Entrás, sumás gente y calculás.
+- **Resultados al toque:** Te dice exactamente quién le tiene que pagar a quién para que queden todos parejos.
+- **Copiar y Pegar:** Tiene un botón para copiar el resumen y mandarlo directo al grupo de WhatsApp.
+- **Temas con onda:** 
+  - **Modo Old:** Un estilo retro que me encanta, con ese naranja clásico.
+  - **Modo Promiedos:** Para los que vivimos mirando la tabla, con la estética de la mejor página de fútbol del mundo.
 
-This project is a starting point for a Flutter application.
+## 🛠️ Cómo se usa:
+1. Agregás a los participantes y cuánto gastó cada uno (si no gastó nada, ponés 0).
+2. Tocás el botón de la varita mágica.
+3. Mirás quién paga y lo mandás al grupo.
+4. Si querés empezar de nuevo, tenés el botón para limpiar todo.
 
-A few resources to get you started if this is your first Flutter project:
+## 📱 APK
+Si querés probarla en el celu, dejé el APK en la carpeta `/apk` de este repo. Bajalo e instalalo (dale permiso a fuentes desconocidas y sale andando).
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+*Hecho para que las cuentas sigan siendo clarísimas.*

@@ -44,7 +44,6 @@ lib/generated_plugin_registrant.dart
 .classpath
 
 # Compiled binaries
-*.apk
 *.aab
 *.exe
 *.dll
